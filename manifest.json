@@ -1,7 +1,7 @@
 {
     "Group":  "GilloDaby",
     "Name":  "BetterShopAuctionModernPack",
-    "Version":  "3.1.1",
+    "Version":  "5.0.0",
     "Description":  "Modern UI override pack for BetterShopAuction. Adds custom flat-design textures (containers, buttons, separators) and the .ui files referencing them. When installed alongside the main BetterShopAuction plugin, this pack overrides the vanilla game-asset look with a modern dark/cyan theme. Remove this plugin to fall back to vanilla styling.",
     "Authors":  [
                     {
@@ -9,7 +9,7 @@
                     }
                 ],
     "Website":  "",
-    "ServerVersion":  ">=0.5.0 <0.6.0",
+    "ServerVersion":  ">=0.5.0-pre.0 <0.6.0",
     "Dependencies":  {
                          "GilloDaby:BetterShopAuction":  "*"
                      },
